@@ -1,4 +1,3 @@
 ### Hi there 👋
-- 🔭 Currently working on Emdy
-- 🌱 Currently learning Svelte
+- 🌱 Currently learning Svelte and V
 - 📫 Email me santeri.sydanmetsa@pm.me
