@@ -1,3 +1,3 @@
 ### Hi there 👋
-- 🌱 Currently learning Svelte and V
+- 🌱 Currently learning Svelte, V and C
 - 📫 Email me santeri.sydanmetsa@pm.me
