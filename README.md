@@ -1,10 +1,9 @@
 ### Hi there 👋
-- 🌱 Currently learning C and Zig
-- 👀 Keeping a close eye on
+- 🌱 Currently learning C
+- 👀 Languages/frameworks I'm interested in
+  - [Odin](https://odin-lang.org/)
   - [Zig](https://ziglang.org/)
   - [Roc](https://www.roc-lang.org/)
   - [Hare](https://harelang.org/)
-  - [V](https://vlang.io)
   - [Svelte](https://svelte.dev)
-  - [Bun](https://bun.sh/)
   - [Ballerina](https://ballerina.io/)
