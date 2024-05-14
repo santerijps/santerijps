@@ -7,3 +7,5 @@
   - [Hare](https://harelang.org/)
   - [Svelte](https://svelte.dev)
   - [Ballerina](https://ballerina.io/)
+  - Gleam
+  - ReScript
